@@ -1,5 +1,3 @@
-# Readme.md
-
 ## 알고리즘 공동체 RuleBook
 
 ### 1. 주간 문제 풀이
